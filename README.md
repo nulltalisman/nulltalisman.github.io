@@ -1,6 +1,6 @@
 (nulltalisman.github.io)
 
-![Alt text](viktor-wrong-null-talisman-v2.jpg)
+<img src="viktor-wrong-null-talisman-v2.jpg" alt="viktor-wrong-null-talisman-v2" style="width:300px; border-radius:8px;" />
 
 
 # Null Talisman
