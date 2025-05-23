@@ -1,5 +1,8 @@
 (nulltalisman.github.io)
 
+![Alt text](viktor-wrong-null-talisman-v2.jpg)
+
+
 # Null Talisman
 
 > **Buy to increase your Intelligence.**  
